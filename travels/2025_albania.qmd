@@ -1,0 +1,23 @@
+---
+title: "Albania 2025"
+format:
+  html:
+    toc-title: "Albania 2025"
+---
+
+# 1. Prima volta in Albania?
+
+*Valona (Vlorë) -- Borsh* \
+*79km, 1320m di dislivello*
+
+È il 27 aprile e siamo arrivati in Albania, più precisamente a Valona (Vlorë), la città albanese geograficamente più vicina all'Italia. bla
+
+<!-- ![cosa a caso](./../photos/2025_albania/foto_test.jpg){width=300} -->
+
+# 2. Kalimera!
+
+Bla bla bla.
+
+# 3.
+
+Bla bla bla.

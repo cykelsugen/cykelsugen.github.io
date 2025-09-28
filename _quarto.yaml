@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "**cykelsugen**"
+  #site-url: www.cykelsugen.it
+  #page-footer: "Copyright © 2025-2026, Teresa Wiesinger & Davide Stocco"
+  page-navigation: true
+  back-to-top-navigation: true
+  navbar:
+    search: true
+    left:
+      - text: "Home"
+        file: home.qmd
+      - text: "Viaggi"
+        menu:
+        #- text: "Copenhagen-Berlino 2023"
+        #  file: travels/2023_copenhagen_berlin.qmd
+        #- text: "Via Rhôna 2024"
+        #  file: travels/2024_via_rhona.qmd
+        - text: "Albania 2025"
+          file: travels/2025_albania.qmd
+      - text: "About us"
+        file: about.qmd
+    right:
+      - icon: github
+        href:  https://github.com/cykelsugen/cykelsugen-it
+    sidebar:
+      style: "docked"
+      author: "Teresa Wiesinger & Davide Stocco"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - style.css
+    mainfont: American Typewriter, Courier New, monospace
+    toc: true
+    toc-depth: 2
+    toc-location: left
+    anchor-sections: true

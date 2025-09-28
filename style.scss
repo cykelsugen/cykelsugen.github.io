@@ -1,0 +1,31 @@
+/*-- scss:defaults --*/
+body {
+  // change the main font line height for numbers
+  font-variant-numeric: lining-nums;
+}
+
+dl.code-annotation-container-grid dt {
+  // needed because I have changed the font
+  line-height: 20px !important;
+}
+
+// hide #TOC-body on wide screens
+#TOC-body {
+  display: none;
+}
+
+// and show it one thin screens
+@media (max-width: 767.98px) {
+  #TOC-body {
+    display: block;
+  }
+}
+
+@media print {
+  // hide not-useful elements
+  // site header, site footer, back-to-top button, CV cover image, sidebar
+  header#quarto-header, footer, a#quarto-back-to-top, .quarto-about-marquee .about-image-container, #quarto-margin-sidebar {
+    display: none;
+  }
+}
+

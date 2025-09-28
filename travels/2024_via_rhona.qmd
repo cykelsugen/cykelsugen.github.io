@@ -1,0 +1,18 @@
+---
+title: "Via Rhôna 2024"
+format:
+  html:
+    toc-title: "Via Rhôna 2024"
+---
+
+# Day 1
+
+Bla bla bla.
+
+# Day 2
+
+Bla bla bla.
+
+# Day 3
+
+Bla bla bla.
