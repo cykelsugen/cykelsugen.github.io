@@ -4,8 +4,8 @@ project:
 
 website:
   title: "**cykelsugen**"
-  #site-url: www.cykelsugen.it
-  #page-footer: "Copyright © 2025-2026, Teresa Wiesinger & Davide Stocco"
+  site-url: https://cykelsugen.github.io/home.html
+  page-footer: "Copyright © 2025-2026, Teresa Wiesinger & Davide Stocco"
   page-navigation: true
   back-to-top-navigation: true
   navbar:
@@ -24,8 +24,16 @@ website:
       - text: "About us"
         file: about.qmd
     right:
+      #- text: "IT"
+      #  menu:
+      #    - text: "EN"
+      #      href:  https://cykelsugen.github.io/en/home.html
+      #    - text: "DE"
+      #      href:  https://cykelsugen.github.io/de/home.html
+      #    - text: "FR"
+      #      href:  https://cykelsugen.github.io/fr/home.html
       - icon: github
-        href:  https://github.com/cykelsugen/cykelsugen-it
+        href:  https://github.com/cykelsugen
     sidebar:
       style: "docked"
       author: "Teresa Wiesinger & Davide Stocco"
@@ -35,7 +43,7 @@ format:
     theme:
       - cosmo
       - style.css
-    mainfont: American Typewriter, Courier New, monospace
+    mainfont: American Typewriter, monospace, Courier New
     toc: true
     toc-depth: 2
     toc-location: left
