@@ -42,7 +42,7 @@ format:
   html:
     theme:
       - cosmo
-      - style.css
+    css: style.css
     mainfont: American Typewriter, monospace, Courier New
     toc: true
     toc-depth: 2

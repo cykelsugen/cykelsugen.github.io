@@ -26,7 +26,12 @@ Seguendo la SH76 che ci porta subito in quota, ci lasciamo alle spalle Valona, p
 
 Il traffico si fa sempre meno intenso, e dopo poco, iniziamo a seguire il primo fiume del giro, il *Shushice*. Ci sembra bellissimo, perché diversamente dall'Italia, dove i fiumi ormai sono tutti incanalati e costretti a seguire il percorso tracciato dall'uomo, con i suoi numerosi meandri, il *Shushice* ci sembra un fiume veramente libero.
 
-![Il fiume *Shushice*](./../photos/2025_albania/shushice.jpg){fig-align="left" width=60%}
+::: {layout-ncol=2}
+![Il fiume *Shushice*](./../photos/2025_albania/shushice.jpg){fig-align="left" width=100%}
+
+![... e la sua valle](./../photos/2025_albania/shushice_2.jpg){fig-align="left" width=100%}
+:::
+
 
 Ci fermiamo all'altezza di *Giormit* per pranzare all'ombra del vecchio ponte. Subito dopo pranzo ci imbattiamo in tre cani rabbiosi, per fortuna due si fermano quasi subito, ma il terzo ci segue per un bel po' e non sembra voler fare amicizia. Con calma, iniziamo a pedalare, e finalmente il cane si allontana. Scopriamo così che noi ciclisti ai cani da guardia, soprattutto a quelli soli, perché il pastore si è momentaneamente assentato, ma con un gregge a cui badare, non stiamo proprio simpatici simpatici.
 
@@ -37,13 +42,18 @@ Da questo momento in poi saremo vigili, sempre concentrati per anticipare i movi
 
 La valle è tranquilla, ci sono alcuni alberghi e due campeggi, un bar lungo la strada -- infrastrutture per turisti, tutte aperte da poco. Ci riempiamo gli occhi del paesaggio montano, delle tante greggi e dei pastori che ci salutano e che sono i veri guardiani e testimoni di queste montagne, dei meandri del fiume, prima di affrontare l'ultima lunga salita di questo primo giorno. La discesa verso *Borsh* è molto bella, il paesaggio cambia piano piano, gli ampi pascoli montani si trasformano in estensioni di uliveti e di fiori gialli, fino a quando non si incomincia a intravedere il mare e l'isola di *Corfù* in lontananza.
 
-A *Qeparo*, sono ormai le 17 passate quando vi arriviamo, chiamiamo un bed and breakfast per prenotare una camera nella vicina *Borsh*. Il proprietario è molto disponibile, pur non trovandosi sul posto in quel momento, mi dice che parlerà con sua sorella e che mi richiamerà tra cinque minuti. Alla fine, ci organizza un pernottamento nell'appartamento per ferie della sorella, *Sea La Vie Anesti* -- paghiamo 40€ in due per un alloggio pulitissimo e con un letto comodo, colazione esclusa.
+A *Qeparo*, sono ormai le 17 passate quando vi arriviamo, chiamiamo un bed and breakfast per prenotare una camera nella vicina *Borsh*.
 
-Cena a base di pesce al ristorante dell'albergo Ciao Borshi.
+![La baia di *Borsh*](./../photos/2025_albania/borsh.jpg){fig-align="left" width=100%}
 
-Siamo più che soddisfatti di questa prima giornata in Albania e andiamo a dormire con la testa piena di nuove immagini. Oltre la gentilezza e disponibilità degli albanesi, in questa prima sera abbiamo avuto modo di osservare anche la fervida attività edilizia del Paese. A Borsh ci sono tante nuove costruzioni, hotel e edifici residenziali/turistici in primis -- tra cinque anni non sarà più la Borsh con i cavalli che trottano lungo la strada principale e gran parte delle strade secondarie non asfaltate che abbiamo visto noi.  Insomma, ci rendiamo conto sin da subito che nel 2025 ovunque si guardi, l'Albania è un grande cantiere all'aria aperta.
+ Il proprietario è molto disponibile, pur non trovandosi sul posto in quel momento, mi dice che parlerà con sua sorella e che mi richiamerà tra cinque minuti. Alla fine, ci organizza un pernottamento nell'appartamento per ferie della sorella, *Sea La Vie Anesti* -- paghiamo 40€ in due per un alloggio pulitissimo e con un letto comodo, colazione esclusa.
+Cena a base di pesce al ristorante dell'albergo *Ciao Borshi*.
 
-![Work in progress](./../photos/2025_albania/work_in_progress.jpg){fig-align="left" width=60%}
+
+Siamo più che soddisfatti di questa prima giornata e andiamo a dormire con la testa piena di nuove immagini. Oltre la gentilezza e disponibilità degli albanesi, in questa prima sera abbiamo avuto modo di osservare anche la loro fervida attività edilizia. A Borsh ci sono tante nuove costruzioni, hotel e edifici residenziali/per turisti in primis -- tra cinque anni non sarà più la Borsh con i cavalli che trottano lungo la strada principale e gran parte delle strade secondarie non asfaltate che abbiamo visto noi.  Insomma, ci rendiamo conto sin da subito che nel 2025 ovunque si guardi, l'Albania è un grande cantiere all'aria aperta.
+
+![Work in progress - anche alle 9 di sera](./../photos/2025_albania/work_in_progress.jpg){fig-align="left" width=100%}
+
 
 
 # 2. Kalimera!
@@ -62,7 +72,16 @@ Lasciamo i bagagli in alloggio e andiamo a visitare il *Parco Nazionale di Butri
 
 Il Parco Nazionale che circonda *Butrinto* è molto bello. Passeggiando per Butrinto ci accompagnano l’allegro cinguettio degli uccelli e il gracchiare delle rane.
 
-![Vista da Butrinto](./../photos/2025_albania/vista_da_Butrinto.jpg){fig-align="left" width=60%}
+::: {layout-nrow=2}
+![](./../photos/2025_albania/butrinto.jpg){fig-align="left" width=100%}
+
+![](./../photos/2025_albania/butrinto_1.jpg){fig-align="left" width=100%}
+
+![Impressioni da Butrinto](./../photos/2025_albania/tartarughe.jpg){fig-align="left" width=100%}
+
+![](./../photos/2025_albania/vista_da_butrinto.jpg){fig-align="left" width=100%}
+
+:::
 
 Torntati a Ksamil ci rendiamo conto che anche qui è in corso una fervida attività edilizia a scopo turistico e anche residenziale (villette mono- o bifamiliari), ma un po’ meno spinta rispetto a *Saranda*. In questa zona dell’Albania vediamo moltissime targhe inglesi, di albanesi residenti nel Regno Unito. 
 Ceniamo al ristorante *Fisherman’s Grill* (polipo e calamaro – buonissimi!) e assaggiamo la birra *Elbar* che diventerà la nostra birra preferita, dopo la *Saraçi* di *Korçe*.
