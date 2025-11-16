@@ -1,5 +1,13 @@
 ---
-title: "Home"
 ---
+# Benvenuti! Willkommen! Welcome!
 
-This is the home page. Welcome!
+Siamo Teresa e Davide e siamo felici di darvi il benvenuto sulla nostro blog. Seleziona la tua lingua per iniziare.
+
+Wir sind Teresa und Davide und freuen uns, euch auf unserem Blog begrüßen zu dürfen. Wähle deine Sprache, um zu beginnen.
+
+We are Teresa and Davide and we are happy to welcome you to our blog. Please select your language to get started.
+
+- [Italiano 🇮🇹](home_it.qmd)
+- [Deutsch 🇩🇪](home_de.qmd)
+- [English 🇬🇧](home_en.qmd)

@@ -1,0 +1,7 @@
+---
+title: "Home"
+---
+
+Hallo Leute! Wir freuen uns, euch auf unserer Hauptseite begrüßen zu dürfen, auf der wir unsere Fahrradabenteuer teilen.
+
+#### [Albanien 2025](travels/2025_albania_de.qmd) - Fahrradtour durch Albanien im Jahr 2025

@@ -1,0 +1,9 @@
+---
+title: "Home"
+---
+
+Ciao a tutti! Siamo felici di darvi il benvenuto sulla nostra pagina principale, dove condividiamo le nostre avventure in bicicletta.
+
+# Viaggi in bicicletta
+
+- [Albania 2025](travels/2025_albania_it.qmd)

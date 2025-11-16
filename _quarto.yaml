@@ -10,28 +10,26 @@ website:
   back-to-top-navigation: true
   navbar:
     search: true
-    left:
-      - text: "Home"
-        file: home.qmd
-      - text: "Viaggi"
-        menu:
+    #left:
+      #- text: "Home"
+      #  file: home_it.qmd
+      #- text: "Viaggi"
+      #  menu:
         #- text: "Copenhagen-Berlino 2023"
         #  file: travels/2023_copenhagen_berlin.qmd
         #- text: "Via Rhôna 2024"
         #  file: travels/2024_via_rhona.qmd
-        - text: "Albania 2025"
-          file: travels/2025_albania.qmd
-      - text: "About us"
-        file: about.qmd
+        #- text: "Albania 2025"
+        #  file: travels/2025_albania.qmd
+      #- text: "About us"
+      #  file: about_us.qmd
     right:
-      #- text: "IT"
-      #  menu:
-      #    - text: "EN"
-      #      href:  https://cykelsugen.github.io/en/home.html
-      #    - text: "DE"
-      #      href:  https://cykelsugen.github.io/de/home.html
-      #    - text: "FR"
-      #      href:  https://cykelsugen.github.io/fr/home.html
+      - text: "Italiano 🇮🇹"
+        href:  home_it.qmd
+      - text: "Deutsch 🇩🇪"
+        href:  home_de.qmd
+      - text: "English 🇬🇧"
+        href:  home_en.qmd
       - icon: github
         href:  https://github.com/cykelsugen
     sidebar:
