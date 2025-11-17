@@ -2,6 +2,13 @@
 title: "Home"
 ---
 
-Hallo Leute! Wir freuen uns, euch auf unserer Hauptseite begrüßen zu dürfen, auf der wir unsere Fahrradabenteuer teilen.
+Hallo Radler:innen, 
+
+wir sind Teresa und Davide und *cykelsugen* ist der Ort, wo wir euch etwas über unsere Fahrradabenteuer erzählen möchten.
+Wir freuen uns riesig, dass ihr auf unseren Blog gestoßen seid, trotz des merkwürdigen Namens.
+
+Hinterlasst uns gerne einen Kommentar, wenn er euch gefällt, und falls nicht, ebenso. Dann versuchen wir, was besser zu machen.
+
+Aber zunächst: viel Spaß beim Lesen und beim Planen der nächsten Tour.
 
 #### [Albanien 2025](travels/2025_albania_de.qmd) - Fahrradtour durch Albanien im Jahr 2025

@@ -2,11 +2,11 @@
 ---
 # Benvenuti! Willkommen! Welcome!
 
-Siamo Teresa e Davide e siamo felici di darvi il benvenuto sulla nostro blog. Seleziona la tua lingua per iniziare.
+Siamo Teresa e Davide e siamo felici di darvi il benvenuto sul nostro blog di cicloviaggi. Per leggerlo in italiano seleziona il tricolore.
 
-Wir sind Teresa und Davide und freuen uns, euch auf unserem Blog begrüßen zu dürfen. Wähle deine Sprache, um zu beginnen.
+Schön, dass ihr auf unseren Radl-Blog gestoßen seid. Wir wünschen euch viel Spaß beim Lesen!
 
-We are Teresa and Davide and we are happy to welcome you to our blog. Please select your language to get started.
+We are Teresa and Davide and we are happy to welcome you on our bikepacking-blog.
 
 - [Italiano 🇮🇹](home_it.qmd)
 - [Deutsch 🇩🇪](home_de.qmd)
