@@ -49,7 +49,7 @@ A *Qeparo*, sono ormai le 17 passate quando vi arriviamo, chiamiamo un bed and b
 
 Siamo più che soddisfatti di questa prima giornata e andiamo a letto con la testa piena di nuove immagini. Oltre la gentilezza e disponibilità degli albanesi, abbiamo notato subito anche una fervida attività edilizia. A *Borsh* ci sono tanti cantieri in corso, soprattutto hotel e edifici residenziali/per turisti -- tra qualche anno probabilmente non sarà più lo stesso posto, con i cavalli che trottano lungo la strada principale e gran parte delle strade secondarie non asfaltate che abbiamo visto noi. Insomma, ci rendiamo conto sin da subito che nel 2025 ovunque si guardi, l'Albania è un grande cantiere all'aria aperta.
 
-![Work in progress - anche alle 9 di sera](./../photos/2025_albania/day_1/work_in_progress.jpg){fig-align="left" width=50%}
+![Work in progress - anche la sera tardi](./../photos/2025_albania/day_1/work_in_progress.jpg){fig-align="left" width=70%}
 
 # 2. Kalimera!
 
@@ -189,7 +189,7 @@ Facciamo colazione all’Agricamping in compagnia di Dana che è molto contenta 
 
 ![L'Agricamping di Dana](./../photos/2025_albania/day_5/agricamping.jpg){fig-align="left" width=100%}
 
-![... e i suoi amici](./../photos/2025_albania/day_5/amici_agricamping.jpg){fig-align="left" width=100%}
+![... e i suoi vicini](./../photos/2025_albania/day_5/amici_agricamping.jpg){fig-align="left" width=100%}
 
 Oggi pedaliamo lungo il *Vjosa*, l’ultimo vero fiume selvaggio d'Europa. Iniziamo a salire piano piano. Incontriamo molte greggi con i loro pastori, e anche molte senza pastore e senza cane da guardiania. Davide trova pure un esemplare di "scarabeo sterco orario" intento ad attraversare la strada. Purtroppo, quando ci vede, si spaventa e perde la sua pallina. Ci dispiace molto, ma siamo sicuri che non avrà fatto troppa fatica a trovarne un’altra.
 La valle di *Permët*, da *Dragot* fino al confine greco, ci piace moltissimo.
@@ -255,12 +255,12 @@ Poco dopo, ci fermiamo allo stand a bordo strada di una arzilla nonna: prendiamo
 
 ![Trahana, sideritis syriaca e oregano](./../photos/2025_albania/day_6/acquisti.jpg){fig-align="left" width=50%}
 
-![Skyline](./../photos/2025_albania/day_6/skyline.jpg){fig-align="left" width=100%}
+![Skyline](./../photos/2025_albania/day_6/skyline.jpg){fig-align="left" width=70%}
 
 La valle da *Mollas* fino a *Drenove* si sembra molto povera, vediamo addirittura chi lavora ancora i campi con l'aratro trainato dai cavalli. Negli ultimi chilometri prima di *Korçë* la situazione cambia: Ci sono eleganti case da due tre piani, tutti abitati, consorzi agrari, centri per macchinari agricoli, e tanta frutticoltura, soprattutto meleti e coltivazioni di ciliegie. *Korçë* è una città tranquilla, molto curata, e stranamente anche l'unica che alle elezioni di maggio ha votato a grande maggioranza il candidato conservatore e non per il socialista Rama. 
 Ci fermiamo da "Bicikletari" per comprare dei cavi di ricambio; un ragazzo del posto ci fa da interprete tra inglese e albanese. Alla fine gli regaliamo un pacchetto di taralli alle olive portato dalla Puglia. Lui è i suoi amici lo apprezzano molto.
 
-![C'è qualcuno?](./../photos/2025_albania/day_6/bicikletari.jpg){fig-align="left" width=100%}
+![C'è qualcuno?](./../photos/2025_albania/day_6/bicikletari.jpg){fig-align="left" width=70%}
 
 ![Pausa al bazar](./../photos/2025_albania/day_6/bazar_korca_1.jpg){fig-align="left" width=100%}
 
@@ -272,7 +272,7 @@ Ci fermiamo da "Bicikletari" per comprare dei cavi di ricambio; un ragazzo del p
 
 Siamo gli unici ospiti del B&B situato all'interno del caratteristico Bazaar; fine aprile da queste parti non è ancora una stagione turistica. Abbiamo finito i contanti, motivo per cui andiamo a prelevare dei soldi in banca. Paghiamo ben 40 euro di spese bancarie: con il senno di poi, conviene portarsi tutti i contanti di cui si ha bisogno da casa.
 
-![Il bazar di Korçë](./../photos/2025_albania/day_7/bazar_korce.jpg){fig-align="left" width=100%}
+![Il bazar di Korçë](./../photos/2025_albania/day_7/bazar_korce.jpg){fig-align="left" width=50%}
 
 Sfruttiamo la giornata di pausa per scoprire la cittè e per visitare alcune delle sue attrazioni:
 - la cateddrale ortodossa; un ragazzo che è vissuto 8 anni in Italia e che sta visitando la cattedrale con un gruppo di turisti ortodossi ci spiega che si tratta di una delle più importanti chiese ortodosse del Paese, ricostruita dopo la dittatura, periodo durante il quale la maggior parte delle chiese ortodosse e delle moschee ecc. sono state distrutte. - - il museo dedicato al fotografo Gijon Mili. Mili è nato in Albania, cresciuto a Bukarest e poi emigrato negli Stati Uniti. Ha scattato tante foto famose, di Picasso, di Eichmann, del Watergate Scandal, e di ballerine in movimento. In genere era molto affascinato dai movimenti, prima di intraprendere la carriera di fotografo, aveva studiato ingegneria al MIT.
@@ -282,7 +282,7 @@ Sfruttiamo la giornata di pausa per scoprire la cittè e per visitare alcune del
 
 ![](./../photos/2025_albania/day_7/cattedrale_ortodossa_int.jpg){fig-align="left" width=100%}
 
-![La cattedralle ortodossa di Korçë](./../photos/2025_albania/day_7/cattedrale_ortodossa_porta.jpg){fig-align="left" width=100%}
+![La cattedrale ortodossa di Korçë](./../photos/2025_albania/day_7/cattedrale_ortodossa_porta.jpg){fig-align="left" width=100%}
 
 ![](./../photos/2025_albania/day_7/cattedrale_ortodossa_est.jpg){fig-align="left" width=100%}
 :::
@@ -300,15 +300,15 @@ Nel pomeriggio visitiamo invece il mueseo dedicato alla più antica scuola alban
 
 ![](./../photos/2025_albania/day_7/nonni_korce.jpg){fig-align="left" width=100%}
 
-![La cattedralle ortodossa di Korçë](./../photos/2025_albania/day_7/modern_arch_korce.jpg){fig-align="left" width=100%}
+![Architettura moderna e il teatro a Korçë](./../photos/2025_albania/day_7/modern_arch_korce.jpg){fig-align="left" width=100%}
 
 ![](./../photos/2025_albania/day_7/teatro_korce.jpg){fig-align="left" width=100%}
 :::
 
 ::: {layout-nrow=2}
-![Cavi a Korçë](./../photos/2025_albania/day_7/korce_cavi.jpg){fig-align="left" width=100%}
+![](./../photos/2025_albania/day_7/korce_cavi.jpg){fig-align="left" width=100%}
 
-![](./../photos/2025_albania/day_7/cavi_korce.jpg){fig-align="left" width=100%}
+![Cavi a Korçë](./../photos/2025_albania/day_7/cavi_korce.jpg){fig-align="left" width=100%}
 :::
 
 
